@@ -10,10 +10,7 @@ Dashboard de tres páginas que responde tres preguntas de un área de cobranza: 
 
 | Resumen ejecutivo | Riesgo de clientes | Gestión de cobranza |
 |---|---|---|
-| <img width="892" height="503" alt="image" src="https://github.com/user-attachments/assets/1e22eee8-5b0b-4dfa-875c-0f82d384da32" />
- | <img width="894" height="501" alt="image" src="https://github.com/user-attachments/assets/b0d67340-e547-4258-a429-e9861652f6ec" />
- | <img width="889" height="498" alt="image" src="https://github.com/user-attachments/assets/77943111-548b-4fc3-9861-7b7b2a63aa39" />
- |
+| <img width="892" height="503" alt="image" src="https://github.com/user-attachments/assets/1e22eee8-5b0b-4dfa-875c-0f82d384da32" />| <img width="894" height="501" alt="image" src="https://github.com/user-attachments/assets/b0d67340-e547-4258-a429-e9861652f6ec" />| <img width="889" height="498" alt="image" src="https://github.com/user-attachments/assets/77943111-548b-4fc3-9861-7b7b2a63aa39" />|
 
 ## Hallazgos principales (cartera al 30/09/2026)
 

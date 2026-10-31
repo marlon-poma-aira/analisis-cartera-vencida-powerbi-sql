@@ -1,0 +1,61 @@
+﻿id_cliente,cliente,sector,departamento,id_asesor,condicion_pago_dias
+1,Alfa Corp S.A.C.,Transporte,Arequipa,3,45
+2,Alfa Group S.A.C.,Transporte,Lima,6,30
+3,Alfa Logística S.A.C.,Retail,Lima,4,30
+4,Alfa Perú S.A.C.,Salud,Lima,3,60
+5,Alfa Servicios S.A.C.,Tecnología,La Libertad,8,30
+6,Amazonas Comercial S.A.C.,Minería,Lima,1,30
+7,Amazonas Corp S.A.C.,Salud,Lambayeque,6,30
+8,Amazonas Industrial S.A.C.,Minería,La Libertad,6,45
+9,Amazonas Logística S.A.C.,Salud,Lima,4,60
+10,Amazonas Perú S.A.C.,Tecnología,La Libertad,3,30
+11,Amazonas Servicios S.A.C.,Salud,Lima,1,60
+12,Andes Comercial S.A.C.,Tecnología,Lambayeque,8,30
+13,Andes Logística S.A.C.,Construcción,Arequipa,8,45
+14,Andes Perú S.A.C.,Transporte,Cusco,2,45
+15,Andes Servicios S.A.C.,Construcción,Lima,1,30
+16,Costa Corp S.A.C.,Salud,Arequipa,1,30
+17,Costa Logística S.A.C.,Educación,Arequipa,1,30
+18,Costa Perú S.A.C.,Tecnología,Lambayeque,7,60
+19,Costa Servicios S.A.C.,Salud,La Libertad,8,45
+20,Delta Corp S.A.C.,Educación,Arequipa,2,60
+21,Delta Group S.A.C.,Salud,Lima,6,60
+22,Delta Industrial S.A.C.,Transporte,Lima,2,30
+23,Delta Perú S.A.C.,Educación,Arequipa,3,45
+24,Delta Servicios S.A.C.,Construcción,Arequipa,5,30
+25,Inca Comercial S.A.C.,Transporte,Lima,6,30
+26,Inca Corp S.A.C.,Salud,Junín,7,60
+27,Inca Group S.A.C.,Minería,Junín,1,45
+28,Inca Industrial S.A.C.,Minería,Lima,2,30
+29,Kuntur Corp S.A.C.,Construcción,La Libertad,3,45
+30,Kuntur Group S.A.C.,Tecnología,Lima,3,45
+31,Kuntur Logística S.A.C.,Alimentos,Piura,8,60
+32,Kuntur Perú S.A.C.,Construcción,Lima,7,45
+33,Kuntur Servicios S.A.C.,Transporte,Piura,3,30
+34,Nova Comercial S.A.C.,Alimentos,Piura,8,30
+35,Nova Corp S.A.C.,Transporte,Cusco,4,30
+36,Nova Group S.A.C.,Salud,Lima,5,45
+37,Nova Logística S.A.C.,Educación,Lambayeque,4,60
+38,Nova Perú S.A.C.,Retail,Lima,2,30
+39,Nova Servicios S.A.C.,Retail,Lima,8,30
+40,Nova Soluciones S.A.C.,Alimentos,La Libertad,1,30
+41,Pacífico Corp S.A.C.,Construcción,Lima,2,45
+42,Pacífico Group S.A.C.,Educación,Junín,2,60
+43,Pacífico Industrial S.A.C.,Minería,Cusco,3,30
+44,Pacífico Logística S.A.C.,Educación,Lima,2,30
+45,Pacífico Perú S.A.C.,Construcción,Lambayeque,1,45
+46,Pacífico Soluciones S.A.C.,Transporte,Lima,6,30
+47,Sierra Comercial S.A.C.,Transporte,Arequipa,8,60
+48,Sierra Group S.A.C.,Construcción,Lima,1,30
+49,Sierra Industrial S.A.C.,Salud,Lambayeque,3,30
+50,Sierra Logística S.A.C.,Transporte,Lima,5,60
+51,Sierra Perú S.A.C.,Alimentos,Lima,8,30
+52,Solaris Group S.A.C.,Retail,Arequipa,6,30
+53,Solaris Industrial S.A.C.,Minería,Lambayeque,7,30
+54,Solaris Logística S.A.C.,Transporte,Junín,5,30
+55,Solaris Perú S.A.C.,Transporte,Cusco,4,30
+56,Solaris Soluciones S.A.C.,Minería,Junín,2,30
+57,Titán Corp S.A.C.,Educación,Junín,7,30
+58,Titán Industrial S.A.C.,Construcción,Arequipa,7,30
+59,Titán Logística S.A.C.,Educación,Lima,1,45
+60,Titán Servicios S.A.C.,Minería,Cusco,6,45
